@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg" />
