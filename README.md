@@ -1,4 +1,4 @@
-![Evilhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=webahua&show_icons=true&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webahua&theme=github_dark)
 
 ## Hi there 👋
 
